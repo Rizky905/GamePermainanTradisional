@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 6f4ce5c5a83fd4f478cc34556863ea1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4541751193462782756
+    second: charcewe_0
+  - first:
+      213: 7287803798478741491
+    second: charcewe_1
+  - first:
+      213: 4005257246340451800
+    second: charcewe_2
+  - first:
+      213: 8799691643644075832
+    second: charcewe_3
+  - first:
+      213: 1770489022055540774
+    second: charcewe_4
+  - first:
+      213: -4143799531343195080
+    second: charcewe_5
+  - first:
+      213: 9154099470838835972
+    second: charcewe_6
+  - first:
+      213: 7348637550417803545
+    second: charcewe_7
+  - first:
+      213: -1350460162446496602
+    second: charcewe_8
+  - first:
+      213: -6765343595793474479
+    second: charcewe_9
+  - first:
+      213: -3365960067337827740
+    second: charcewe_10
+  - first:
+      213: 8078277778753907850
+    second: charcewe_11
+  - first:
+      213: -8983698736350229362
+    second: charcewe_12
+  - first:
+      213: 2906764943589784117
+    second: charcewe_13
+  - first:
+      213: -6807383492239938767
+    second: charcewe_14
+  - first:
+      213: -5546556778156511879
+    second: charcewe_15
+  - first:
+      213: 3152735971409080717
+    second: charcewe_16
+  - first:
+      213: -857086573571178798
+    second: charcewe_17
+  - first:
+      213: 8835442885309720373
+    second: charcewe_18
+  - first:
+      213: 3990780338343648289
+    second: charcewe_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charcewe_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5740
+        width: 863
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510935d9d341ae04aacafa3f79287410
+      internalID: 4541751193462782756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_1
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 5758
+        width: 1064
+        height: 1179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8f87ba909be5f4aaf0ba36183f6789
+      internalID: 7287803798478741491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_2
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 5744
+        width: 1003
+        height: 1207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126f7e6cfc12e94d896da49b8dadc5f
+      internalID: 4005257246340451800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_3
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 5747
+        width: 966
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56594e8b0a55fe4c96eab70443eece4
+      internalID: 8799691643644075832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4295
+        width: 967
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad10a6872da3a0347944c5e471b88f43
+      internalID: 1770489022055540774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_5
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 4311
+        width: 933
+        height: 1204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f525fc0e41be614c93f520db6d65aa6
+      internalID: -4143799531343195080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_6
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4331
+        width: 899
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcea7a2f4586ab4ebd60ffa477ff762
+      internalID: 9154099470838835972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_7
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 4356
+        width: 863
+        height: 1169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49f40b0aed946a47980f6e3c66087b0
+      internalID: 7348637550417803545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2911
+        width: 883
+        height: 1171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2683660a9021cd42b268beb595f1b64
+      internalID: -1350460162446496602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_9
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2880
+        width: 905
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b497614771bf418ce97078567aa6d
+      internalID: -6765343595793474479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_10
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2864
+        width: 924
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c13d30221cd1c5438c6df20d5c7028d
+      internalID: -3365960067337827740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_11
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 2864
+        width: 942
+        height: 1207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b76d38b4fcb21442bc6db1cc69993a9
+      internalID: 8078277778753907850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1343
+        width: 941
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a3cc3d495fe9e419b88903172a8be4
+      internalID: -8983698736350229362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_13
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1390
+        width: 945
+        height: 1222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7144b99757d74364fbe31a4add4411ed
+      internalID: 2906764943589784117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_14
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 1433
+        width: 952
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b487ce09e962c8499bfdf216b652af1
+      internalID: -6807383492239938767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_15
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 1442
+        width: 957
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7805513777aeeb54b90d7cb56e45f95d
+      internalID: -5546556778156511879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 39
+        width: 964
+        height: 1201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98bdfac1cfa324ea3aab15f7823c85
+      internalID: 3152735971409080717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_17
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 53
+        width: 976
+        height: 1180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c07b3acb8eb7c24aa62a0b76974464b
+      internalID: -857086573571178798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_18
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 55
+        width: 998
+        height: 1171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6088199177839448b234b609d0c8f03
+      internalID: 8835442885309720373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charcewe_19
+      rect:
+        serializedVersion: 2
+        x: 4028
+        y: 50
+        width: 1016
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ca6bc69ee1d36468a8231f15db7c76
+      internalID: 3990780338343648289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
